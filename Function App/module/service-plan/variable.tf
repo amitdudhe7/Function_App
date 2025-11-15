@@ -1,0 +1,1 @@
+variable "app_sp_detail" {}
