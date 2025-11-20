@@ -1,1 +1,0 @@
-variable "stg_account_detail" {}
